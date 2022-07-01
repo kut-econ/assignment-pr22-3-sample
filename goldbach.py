@@ -8,7 +8,7 @@ for i in range(2,5000):
             break
     else:
         primes.append(i)
-
+# ここまではtriplets.pyからのコピペです。
 # %%
 for i in range(4,101,2):
     print(i,end=' ')
